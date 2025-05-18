@@ -19,10 +19,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone health-goals-react
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd health-goals-react
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -54,12 +54,4 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-You can deploy this project using any static site hosting service like Vercel, Netlify, or GitHub Pages.
-
-## Can I connect a custom domain to my project?
-
-Yes, you can! Most hosting providers allow you to connect a custom domain to your project.
 
